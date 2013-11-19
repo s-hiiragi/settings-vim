@@ -1,4 +1,4 @@
-settings-vimrc
+settings-vim
 ==============
 
 vim settings (.vimrc, .gvimrc)
